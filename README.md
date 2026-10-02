@@ -95,7 +95,7 @@ Best observed experimental performance:
 ### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript" />
 </p>
 
 ### 🤖 AI / Machine Learning
