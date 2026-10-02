@@ -1,284 +1,330 @@
+<div align="center">
+
 # 👋 Hi, I'm Raj Deep Suman
 
-### 💻 B.Tech Computer Science & Engineering | AI/ML | Bioinformatics | Software Development
+### `AI/ML` • `Bioinformatics` • `Graph Neural Networks` • `Software Development`
 
-I'm a final-year **Computer Science & Engineering student** passionate about building practical software and exploring the intersection of **Artificial Intelligence, Machine Learning, Deep Learning, and Bioinformatics**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Final-Year+Computer+Science+Engineering+Student;AI%2FML+%26+Deep+Learning+Enthusiast;Exploring+Graph+Neural+Networks;Building+AI+for+Bioinformatics;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
 
-I enjoy turning research ideas and real-world problems into working systems — from **protein function prediction and Graph Neural Networks** to **cybersecurity and intelligent document verification**.
+<br>
 
----
+<a href="https://github.com/Monty2003">
+<img src="https://img.shields.io/badge/GitHub-Monty2003-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-## 🚀 About Me
-
-* 🎓 Final-year **B.Tech CSE** student at **GITAM University**
-* 🔬 Interested in **AI/ML, Deep Learning, Bioinformatics & Graph Neural Networks**
-* 🧬 Worked on **Protein Function Prediction using ESM embeddings and Machine Learning**
-* 🕸️ Currently working on a **Heterogeneous GNN framework for Protein–Gene–Disease analysis**
-* 🛡️ Built projects in **Cybersecurity and Intrusion Detection**
-* 🤖 Team Lead of **Nexora**, an AI-based identity & document screening system
-* 💻 Interested in **Full-Stack Development and AI-powered applications**
-* 📚 Currently strengthening my **Data Structures & Algorithms with Java**
-* 🚀 Always learning, building, experimenting and improving
+</div>
 
 ---
 
-## 🧠 Technical Skills
+## 🧑‍💻 About Me
 
-### Programming
+```yaml
+name: Raj Deep Suman
+education: B.Tech Computer Science & Engineering
+focus:
+  - Artificial Intelligence & Machine Learning
+  - Deep Learning
+  - Graph Neural Networks
+  - Bioinformatics
+  - Software Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js" />
-</p>
+currently_working_on:
+  - Heterogeneous GNN for Protein-Gene-Disease analysis
 
-### AI / Machine Learning
+research:
+  - Protein Function Prediction
+  - ESM Protein Embeddings
+  - Machine Learning for Biological Sequences
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-</p>
+currently_learning:
+  - Data Structures & Algorithms with Java
+  - Graph Neural Networks
+  - Cloud & Production Deployment
 
-* Machine Learning
-* Deep Learning
-* Natural Language Processing
-* Graph Neural Networks
-* Classification & Prediction
-* Feature Engineering
-* ESM / Protein Language Models
-* Model Evaluation
-
-### Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,flask,nodejs" />
-</p>
-
-### Databases & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" />
-</p>
-
-### Bioinformatics
-
-* Protein Sequence Analysis
-* Protein Function Prediction
-* UniProt / Swiss-Prot
-* ESM Protein Embeddings
-* Amino Acid & Physicochemical Features
-* Protein–Gene–Disease Networks
+interests:
+  - AI/ML
+  - Bioinformatics
+  - Full-Stack Development
+  - Cybersecurity
+  - AI/ML Research
+```
 
 ---
 
-# 🔬 Research & Projects
+## 🔭 What I'm Working On
+
+<table>
+<tr>
+<td width="50%">
+
+### 🕸️ Heterogeneous GNN
+
+Building a graph-based framework connecting:
+
+`Proteins ↔ Genes ↔ Diseases`
+
+Exploring:
+
+`GCN` • `GAT` • `GraphSAGE`
+
+</td>
+
+<td width="50%">
+
+### 🧬 Protein Function Prediction
+
+Research work involving:
+
+`ESM Embeddings` • `SVM/SVC` • `Deep Learning`
+
+Best observed experimental performance:
+
+**~94%**
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧠 Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
+
+`Machine Learning` • `Deep Learning` • `NLP` • `CNN` • `GNN` • `ESM`
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,flask,nodejs" />
+</p>
+
+### 🗄️ Databases & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" />
+</p>
+
+### 🧬 Bioinformatics
+
+`UniProt` • `Swiss-Prot` • `ESM` • `Protein Sequence Analysis`
+
+`Protein Function Prediction` • `Protein-Gene-Disease Networks`
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ## 🧬 Protein Function Prediction
 
-A machine learning research project focused on predicting protein functions from amino-acid sequences.
+Machine Learning-based protein function classification using biological sequence information and protein language model embeddings.
 
-**Approach:**
+**Tech**
 
-* Swiss-Prot reviewed protein sequences
-* TF-IDF + SVM baseline
-* ESM protein embeddings
-* SVC-based classification
-* Deep learning experiments
-* Cross-validation and ensemble approaches
+`Python` `PyTorch` `Scikit-learn` `Biopython` `ESM`
 
-**Best observed performance:** ~94%
+</td>
 
-**Tech:** `Python` `PyTorch` `Scikit-learn` `Biopython` `Hugging Face Transformers`
+<td width="50%">
 
----
+## 🕸️ Heterogeneous GNN
 
-## 🕸️ Heterogeneous Graph Neural Network for Bioinformatics
+Graph-based learning framework for biological entities and relationships.
 
-A research-oriented capstone project focused on developing a unified framework for analyzing relationships between:
+**Tech**
 
-**Proteins ↔ Genes ↔ Diseases**
+`Python` `PyTorch` `PyG` `GCN` `GAT` `GraphSAGE`
 
-The system aims to support:
+</td>
+</tr>
 
-* Protein Function Prediction
-* Disease Association Prediction
-* Multi-type biological entities
-* Multi-relational biological graphs
-* Scalable graph-based learning
+<tr>
+<td width="50%">
 
-**Models being explored:**
+## 🪪 Nexora
 
-* GCN — Graph Convolutional Network
-* GAT — Graph Attention Network
-* GraphSAGE
+AI-based identity and document screening system.
 
-**Data Sources:**
+**Tech**
 
-`UniProt` `STRING` `DisGeNET` `OMIM`
+`React` `Flask` `PyTorch` `YOLO` `PaddleOCR` `OpenCV`
 
-**Tech:** `Python` `PyTorch` `PyTorch Geometric` `Scikit-learn`
+</td>
 
----
+<td width="50%">
 
-## 🪪 Nexora — AI-Based Fake Identity & Document Screening
+## 🛡️ Intelligent IDS
 
-An AI-powered document screening system designed to identify potentially fraudulent or manipulated identity documents.
+Machine Learning-based network intrusion detection system.
 
-### Key modules
+**Tech**
 
-* 📄 OCR-based information extraction
-* 🔍 Document validation
-* 🖼️ Tampering detection
-* 👤 Face detection
-* ⚠️ Risk assessment
+`Python` `Flask` `React` `MongoDB` `Scikit-learn`
 
-### Technologies
-
-`React.js` `Python` `Flask` `MongoDB` `PyTorch` `YOLO` `PaddleOCR` `OpenCV`
-
-🏆 **Selected among the Top 50 teams in the internal SIH evaluation and nominated by the college for the national-level Smart India Hackathon process.**
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛡️ Intelligent Intrusion Detection System
-
-An AI-based Intrusion Detection System developed using network traffic data.
-
-### Features
-
-* Network traffic analysis
-* Attack classification
-* Machine Learning-based detection
-* Real-time monitoring interface
-* Dashboard-based visualization
-
-**Tech:** `Python` `Flask` `React.js` `MongoDB` `Scikit-learn`
-
----
-
-# 🏆 Experience & Research
+# 🏆 Experience
 
 ### 🔬 Research Internship — NIT Patna
 
-Worked on **Machine Learning-based Protein Function Prediction** using large-scale biological sequence data.
+Worked on **Protein Function Prediction using Machine Learning and Deep Learning**.
 
-**Key areas:**
+Key areas:
 
 * Protein sequence processing
-* Machine Learning
 * ESM embeddings
+* Machine Learning
 * Deep Learning
+* Multi-class classification
 * Model evaluation
 * Bioinformatics
 
-The work involved experimentation with multiple machine learning and deep learning approaches for multi-class protein function prediction.
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Monty2003&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monty2003&layout=compact&hide_border=true&theme=tokyonight" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Monty2003&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 My GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Monty2003&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Monty2003/Monty2003/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+> ⚠️ The snake animation requires a GitHub Actions workflow in this repository. If you want it working, I'll give you the workflow separately.
 
 ---
 
 # 📚 Currently Learning
 
 ```text
-Data Structures & Algorithms
-        ↓
-Machine Learning & Deep Learning
-        ↓
-Graph Neural Networks
-        ↓
-Bioinformatics & Protein Language Models
-        ↓
-Full-Stack Development
-        ↓
-Cloud & Production Deployment
+                    ┌──────────────────────┐
+                    │ Data Structures      │
+                    │ & Algorithms         │
+                    └──────────┬───────────┘
+                               ↓
+                    ┌──────────────────────┐
+                    │ Machine Learning     │
+                    │ & Deep Learning      │
+                    └──────────┬───────────┘
+                               ↓
+                    ┌──────────────────────┐
+                    │ Graph Neural         │
+                    │ Networks             │
+                    └──────────┬───────────┘
+                               ↓
+                    ┌──────────────────────┐
+                    │ Bioinformatics       │
+                    │ & Protein AI         │
+                    └──────────┬───────────┘
+                               ↓
+                    ┌──────────────────────┐
+                    │ Cloud & Production   │
+                    │ Deployment           │
+                    └──────────────────────┘
 ```
 
 ---
 
-# 🛠️ Technologies I Work With
+# 🎯 Areas of Interest
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Graph%20Neural%20Networks-00A86B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bioinformatics-2E7D32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software%20Engineering-007ACC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cybersecurity-333333?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💡 A Little More About Me
 
 ```text
-Languages        → Python • Java • C++ • JavaScript
-
-AI / ML          → PyTorch • Scikit-learn • Transformers
-
-Deep Learning    → Neural Networks • CNNs • GNNs
-
-Graph ML         → GCN • GAT • GraphSAGE
-
-Bioinformatics   → UniProt • Swiss-Prot • ESM
-
-Backend          → Flask • Node.js
-
-Frontend         → React.js • HTML • CSS • JavaScript
-
-Databases        → MongoDB • MySQL
-
-Tools            → Git • GitHub • VS Code • Postman
+💻 I like building practical projects
+🔬 I enjoy research-oriented problems
+🧬 Currently exploring AI + Biology
+🕸️ Learning how graphs can represent biological systems
+🤖 Interested in intelligent real-world applications
+📚 Constantly improving my programming fundamentals
+🚀 Goal: Build useful technology and keep learning
 ```
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Monty2003&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monty2003&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Monty2003&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 📌 Featured Projects
-
-Here are some of the projects I'm working on or have worked on:
-
-🔹 **Protein Function Prediction**
-Machine Learning-based protein function classification using sequence features and ESM embeddings.
-
-🔹 **Heterogeneous GNN Bioinformatics**
-Graph-based learning framework for protein, gene and disease relationships.
-
-🔹 **Nexora**
-AI-powered identity and document screening system.
-
-🔹 **Intelligent Intrusion Detection System**
-Machine Learning-based network intrusion detection platform.
-
-🔹 **Weather Web Application**
-Web application for weather information and visualization.
-
----
-
-# 🎯 Career Interests
-
-I'm particularly interested in opportunities involving:
-
-* 🤖 Artificial Intelligence / Machine Learning
-* 🧠 Deep Learning
-* 🕸️ Graph Neural Networks
-* 🧬 AI for Bioinformatics
-* 💻 Software Engineering
-* 🌐 Full-Stack Development
-* 🔐 Cybersecurity
-* 🔬 AI/ML Research
 
 ---
 
 # 🤝 Let's Connect
 
-<p align="left">
+<div align="center">
 
 <a href="https://github.com/Monty2003">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Monty2003-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Raj%20Deep%20Suman-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-</p>
+</div>
 
----
+<br>
 
-### 💡 "Build. Learn. Experiment. Improve."
+<div align="center">
 
-Thanks for visiting my profile! 🚀
+### ⚡ Build. Learn. Experiment. Improve.
+
+<img src="https://komarev.com/ghpvc/?username=Monty2003&style=for-the-badge&color=blue" alt="Profile Views"/>
+
+</div>
