@@ -27,7 +27,7 @@ I enjoy turning research ideas and real-world problems into working systems — 
 ### Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js" />
+  <img src="https://skillicons.dev/icons?i=python,java,js" />
 </p>
 
 ### AI / Machine Learning
