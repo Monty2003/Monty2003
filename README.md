@@ -222,17 +222,6 @@ Key areas:
 
 ---
 
-# 📈 My GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/Monty2003">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Monty2003&theme=tokyo-night&hide_border=true&area=true" />
-
-</a>
-
-</div>
 
 # 🐍 Contribution Snake
 
